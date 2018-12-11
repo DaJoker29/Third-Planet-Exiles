@@ -5,11 +5,8 @@
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Fade in:</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 1]</Text>
-    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 7/8" Page="1" Title="">
+      <SceneProperties Length="3 1/8" Page="1" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MARCUS"></CharacterArcBeat>
           <CharacterArcBeat Name="SPARK"></CharacterArcBeat>
@@ -19,21 +16,31 @@
       <Text>Int. Scion hall - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A windowless hexagon made out of concrete and metal.</Text>
+      <Text>A tall, windowless room made out of concrete and metal.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>On the floor, an polished array of three circular panels are linked to each other and the walls by large cables.</Text>
+      <Text>A gunmetal array of three circular panels are linked together on the floor, large conduits linking them to the walls.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A life-sized hologram hovers a foot above each panel.</Text>
+      <Text>A different hologram floats above each panel.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>VESPER: Green, female 60s, an aged goddess.
-MARCUS: Red, male 50s, a stoic general.
-SPARK: Orange, male 30s, a bohemian</Text>
+      <Text>VESPER, the green hologram, stands firm, hands drawn behind her back with flowing cloth obscuring her aging body. Her eyes are severe and accentuating the wrinkles above her cheeks.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>VESPER and MARCUS are arguing while SPARK stares at the wall.</Text>
+      <Text>MARCUS, the red hologram, snarls behind crossed arms and reflective cuff-links. From behind a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">tri-cornered</Text>
+      <Text> hat and powdered wig, his beady eyes dart around the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Finally, SPARK, the orange hologram, stands about two feet behind his </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">projecter</Text>
+      <Text>, staring off at the wall. A short buzz cut pokes out his two-tone </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">hoodie</Text>
+      <Text>, hands are perched firmly in paint-stained jeans.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The silence has grown awkward.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Vesper</Text>
@@ -44,32 +51,43 @@ SPARK: Orange, male 30s, a bohemian</Text>
     <Paragraph Type="Character">
       <Text>Marcus</Text>
     </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(interrupting)</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Do you? Do you understand because I don’t think you do.</Text>
+      <Text>Do you? Do you understand because I don’t think so.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VesPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Marcus, we’ve all seen the logs of—</Text>
+      <Text>Marcus, we’ve all know what hap—</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus points a trembling finger towards her projection.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>MarcUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>But you weren’t there. You weren’t there when the Volaar attacked. Humanity was broken. Decimated. Shattered. You don’t know how far a people have to be pushed to even consider destroying their home. Diplomacy means nothing to an opponent seeking conquest.</Text>
+      <Text>But you weren’t there. You never had to watch a Volaar battle cruiser decimate an entire city. You never witness it, the decimation, the destruction. How far a people must be pushed to even </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">consider</Text>
+      <Text> destroying their own home. Trust me, diplomacy means nothing to an opponent seeking your death.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Vesper takes another moment to let the room settle.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VesPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>But, Marcus, don’t you think the Endari deserve to be judged by their own actions, not ghosts from our past.</Text>
+      <Text>But surely Marcus, the Endari deserve to be judged by their own actions, not ghosts from our past.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>MarCUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You may be right, they may not be a threat. But I will always do everything in my power to ensure we never go down that path again.</Text>
+      <Text>That may be. They may not be a threat. But I will always do everything in my power to ensure we never go down that path again.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VesPER</Text>
@@ -77,23 +95,23 @@ SPARK: Orange, male 30s, a bohemian</Text>
     <Paragraph Type="Dialogue">
       <Text>Spark? What do you think?</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus scoffs and turns away.</Text>
+    </Paragraph>
     <Paragraph Type="Character">
       <Text>Marcus</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(scoffs)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>And we entrust our future to the boy.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Spark turns and looks between the two of them.</Text>
+      <Text>Spark looks between the two.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Spark</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>If we aid the Endari, they can unite all Augeum tribe in the system under one banner. This would make them powerful allies.</Text>
+      <Text>If we aid the Endari, they may unite all Augeum tribes under one banner. Making them powerful allies.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Vesper nods.</Text>
@@ -102,7 +120,7 @@ SPARK: Orange, male 30s, a bohemian</Text>
       <Text>MarCUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Powerful, yes. Allies only until they aren’t. We can’t give them a knife and be surprised when they choose to slit our throats with it.</Text>
+      <Text>Powerful, yes. Allies only until they aren’t. We mustn’t give them a knife and be surprised when they choose to slit our throats with it.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Spark</Text>
@@ -114,25 +132,39 @@ SPARK: Orange, male 30s, a bohemian</Text>
       <Text>Marcus</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>The Endari may well unite the Augeum without our help. If that’s the case, you can ensure the Enclave will not stand idly by.</Text>
+      <Text>The Endari may well unite the Augeum without our help. If that’s the case, the Enclave will not stand idly by.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Spark</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You don’t wish to make ourselves a targets.</Text>
+      <Text>You don’t wish to make ourselves a target.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>MarCUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Not only that. There is a reason the Nightlings have lasted so for centuries of war with the Aurem. Enclave technology is vastly superior and their relationship with the Posari is invaluable. If we can get the Enclave and the Commonwealth on our side, we can easily quell any threat the Collective may pose.</Text>
+      <Text>Not only that. There is a reason the Nightlings have survived centuries of war against the Aurem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He reaches into thin air and pulls out a brass-topped cane. With a snap, he locks it in the crevasse of his armpit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Marcus (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Enclave technology is vastly superior and their relationship with the Posari is invaluable. If we can get the Enclave and the Commonwealth on our side, we can easily quell any threat the Collective may pose.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VesPER</Text>
     </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(snide)</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Or we may just initiate another System war, which is clearly the last thing anyone wants.</Text>
+      <Text>Or maybe just start another System war.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Marcus</Text>
@@ -144,16 +176,18 @@ SPARK: Orange, male 30s, a bohemian</Text>
       <Text>VespER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>For a general maybe. Peace. Trade. These are more than just interludes to fighting, Osborne. These are tools to building strong nations, ones that don’t rely on conquest or sabotaging others out of fear of what they can do.</Text>
+      <Text>To a general maybe. But peace </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">eand</Text>
+      <Text> trade are more than just interludes to fighting, Marcus. These are tools for building strong nations, ones not built on fear and which don’t rely on conquest or sabotage.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>MarCUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Well, I hope your peace and trade serve you well when an Endari battle armada hovers over Riande. Maybe they’ll accept your diplomacy then.</Text>
+      <Text>Well, Vesper, I pray your peace and trade serve you well when an Endari battle armada hovers over Riande. Maybe they’ll accept your diplomacy then.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Marcus and Vesper each take a moment to compose themselves.</Text>
+      <Text>Marcus and Vesper each compose themselves.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>MarCUS (</Text>
@@ -167,10 +201,10 @@ SPARK: Orange, male 30s, a bohemian</Text>
       <Text>VesPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yes, Spark. You’ll have the deciding vote here. Where do you stand.</Text>
+      <Text>Yes, Spark. You’ll have the deciding vote here. Where do you stand?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Spark stares at both of them.</Text>
+      <Text>He stares back at the wall.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Spark</Text>
@@ -182,7 +216,7 @@ SPARK: Orange, male 30s, a bohemian</Text>
       <Text>MarCUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Don’t think too long boy. I can hear that battle cruiser roaring up it’s engines now.</Text>
+      <Text>Don’t think too long boy. I can hear the cruisers roaring up their engines now.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VeSPER</Text>
@@ -197,13 +231,10 @@ SPARK: Orange, male 30s, a bohemian</Text>
       <Text>(to Spark)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Take your time and consider it well. The fate of humanity rests in the balance.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Spark nods.</Text>
+      <Text>Take your time, dear, and consider it well. Many lives rest in the balance.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="3" Title="">
+      <SceneProperties Length="2 3/8" Page="4" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
           <CharacterArcBeat Name="SPARK"></CharacterArcBeat>
@@ -212,41 +243,40 @@ SPARK: Orange, male 30s, a bohemian</Text>
       <Text>Int. spark’s studio - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Spark’s eyes flicker on, the iridescent glow of his synthetic pupils shining.</Text>
+      <Text>The iridescent glow of Spark’s pupils flick on.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He disconnects a cord attached to where his index finger should be and the chair slides backwards into the wall.</Text>
+      <Text>He disconnects a small cord jutting out from his right temple. It retracts into a compartment on the chair which  slides backwards into the wall.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>His hand morphs and his finger grows back.</Text>
+      <Text>The studio used to be an average loft. There is no bed. The kitchen and bathroom are both overtaken with art supplies and filled canvases.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He’s in a loft turned art studio. There is no bed and the kitchen and bathroom have been become overtaken with art supplies and old sketches.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>He walks over to the balcony and stares out.</Text>
+      <Text>He walks over to the balcony and stares at the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">cityscape</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>SUPER: BABEL, RIANDE, LEONIS II System
 SUPER: Year 427 A.V.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The city below is sprawling and majestic. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
       <Text>Flying cars fill the air and lush green wilderness can be seen over the city walls.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The door opens and ADAM, a short man with graying brown hair, enters.</Text>
+      <Text>On the streets below, humans and machines shuffles past one another going about their busy lives.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He stops in the middle of the room and crosses his hands.</Text>
+      <Text>The door opens and ADAM, a skinny man with graying brown hair, enters.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He crosses his hands in the middle of the room.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Spark</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Greetings, Councilor. What can I do for you?</Text>
+      <Text>What can I do for you?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Adam approaches the balcony.</Text>
@@ -261,10 +291,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>The Council wishes to know...</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He coughs and grabs a tissue from his pocket.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Spark stares at it in his hand.</Text>
+      <Text>He grabs a tissue from his pocket and coughs.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Adam (</Text>
@@ -281,13 +308,16 @@ SUPER: Year 427 A.V.</Text>
       <Text>Spark</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Once again, they have made their decisions and it is up to me to make mine. Placing the fate of the entire species in my hands.</Text>
+      <Text>They have made their decisions and it is up to me to make mine. Yet again, our future rests in my hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stares down at his palms.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Adam</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I imagine that’s the reason they created a third Scion, to serve as tiebreaker and end their constant deadlocks. Although I doubt that makes you feel any better.</Text>
+      <Text>I imagine that’s the reason for a third Scion. To serve as tiebreaker and end their constant deadlocks. Although I doubt that makes you feel any better.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Spark</Text>
@@ -304,7 +334,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You have no idea how much I envy you. Sickness, happiness, embarrassment. Even the most base of human emotions: anger, jealousy, fear. From the day I was created to this very moment now, nothing has changed within me.</Text>
+      <Text>Sickness, happiness, embarrassment. Even anger, jealousy, fear. From the day I was created to this very moment now, nothing has changed within me.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Adam</Text>
@@ -316,7 +346,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>Spark</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>A blessing would require a soul, which isn’t an option at the factory.</Text>
+      <Text>A blessing would require a soul, which I don’t think is an option at the factory.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>They share a laugh.</Text>
@@ -347,28 +377,25 @@ SUPER: Year 427 A.V.</Text>
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>We still don’t fully understand the A-Cog brain. Despite what some people say, I believe somewhere in there, hidden behind the ones and zeroes, something lives. Makes sense to me at least.</Text>
+      <Text>We still don’t fully understand the A-Cog brain. Despite what some may say, I believe somewhere in there, beneath the ones and zeroes, something lives. Makes sense to me at least.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Spark</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Thank you, Councilor. Still, this decision carries such heavy weight and ramifications. What would be the “human” thing to do?</Text>
+      <Text>Thank you, Councilor. Still, this decision carries weight and ramifications. What would a “human” thing to do?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Adam contemplates and approaches him.</Text>
+      <Text>Adam contemplates and smiles.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Adam</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Ask for help. I have a mentor. Someone who I’ve consulted during difficult times. He may be able to help you.</Text>
+      <Text>Ask for help. I have someone who I’ve always consulted during difficult times. He may be able to help you.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Spark</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Thank you Councilor. I would like to meet with him.</Text>
+    <Paragraph Type="Action">
+      <Text>Spark stares back at the city as the sunsets.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 2]</Text>
@@ -574,7 +601,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>Alec-Jon watches, concerned.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2" Page="8" Title="">
+      <SceneProperties Length="2" Page="9" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BARLOW"></CharacterArcBeat>
           <CharacterArcBeat Name="EMPEROR POOSUS"></CharacterArcBeat>
@@ -716,7 +743,7 @@ SUPER: Year 427 A.V.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 3]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3 4/8" Page="10" Title="">
+      <SceneProperties Length="3 4/8" Page="11" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALEC-JON"></CharacterArcBeat>
           <CharacterArcBeat Name="AUREM GUARD"></CharacterArcBeat>
@@ -4613,11 +4640,11 @@ SUPER: Year 427 A.V.</Text>
 
   <SpellCheckIgnoreLists>
     <IgnoredRanges>
-      <Range End="36049" Start="36042"/>
-      <Range End="36098" Start="36091"/>
-      <Range End="39161" Start="39152"/>
-      <Range End="48729" Start="48721"/>
-      <Range End="58736" Start="58725"/>
+      <Range End="36431" Start="36424"/>
+      <Range End="36480" Start="36473"/>
+      <Range End="39543" Start="39534"/>
+      <Range End="49111" Start="49103"/>
+      <Range End="59118" Start="59107"/>
     </IgnoredRanges>
     <IgnoredWords/>
   </SpellCheckIgnoreLists>
@@ -4629,7 +4656,7 @@ SUPER: Year 427 A.V.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="42838,42838" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="6081,6081" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
