@@ -502,6 +502,11 @@ SUPER: Year 427 A.V.</Text>
       <Text>Weemes and Alec-Jon return to their seats.</Text>
     </Paragraph>
     <Paragraph Type="Character">
+      <ScriptNote Author="" Color="#000000000000" DateModified="20181210T015458" DateTime="20181210T015437" Name="Remove title 'Emperor' from the sluglines" Type="">
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Unnecessary.</Text>
+        </Paragraph>
+      </ScriptNote>
       <Text>Emperor poosus</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
@@ -511,7 +516,9 @@ SUPER: Year 427 A.V.</Text>
       <Text>In the pit, the Aurem has the Nightling pinned underneath it’s gigantic foot, crushing it’s pelvis and thighs. Meanwhile, the Nightling has thrust the spear through the eye-socket of the Aurem. They both seem to wither in place, frozen in time as life fades from them both.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>EmperOR POOSUS (CONT’D)</Text>
+      <Text>EmperOR POOSUS (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(into a microphone)</Text>
@@ -1259,7 +1266,9 @@ SUPER: Year 427 A.V.</Text>
       <Text>He walks closer to the viewport and stares at the image.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>AdmirAL (CONT’D)</Text>
+      <Text>AdmirAL (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>None of us are old enough to remember the Volaar invasion. In fact, I wager this is the first time our two species have encountered each other in over four centuries.</Text>
@@ -1338,13 +1347,19 @@ SUPER: Year 427 A.V.</Text>
       <Text>Onyx leaves the Admiral to stare stoically at his screen.</Text>
     </Paragraph>
     <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Add Scene: Volaar soldiers and their families, working at the camp, enjoying themselves. A child kneels down to pick up their dropped doll while their mother prepares a meal. An ion beam appears in the sky as she stands up.]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 5]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="19" Title="">
+      <SceneProperties Length="5/8" Page="19" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. SYONIS - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>[ Modify: Poosus announces plans to execute Barlow if they do not agree to terms by tomorrow. Alec-Jon uses the water purification plant as a tool to buy Poosus’s patience.]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>CENTRAL BOULEVARD</Text>
@@ -1376,7 +1391,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>Twisting the rod down from it’s base, a small lens folds out and lights up.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3 5/8" Page="19" Title="">
+      <SceneProperties Length="3 5/8" Page="20" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALEC-JON"></CharacterArcBeat>
           <CharacterArcBeat Name="CHO"></CharacterArcBeat>
@@ -1425,15 +1440,9 @@ SUPER: Year 427 A.V.</Text>
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <ScriptNote Author="" Color="#000000000000" DateModified="20180928T215006" DateTime="20180928T214904" Name="Unfamiliar Time Scale" Type="">
+      <ScriptNote Author="" Color="#000000000000" DateModified="20181210T014854" DateTime="20180928T214904" Name="Change Mordents to Days" Type="">
         <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Really want to add some points of separation between these Humans and the Humans of Earth. </Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">We are not alike, not alike up on this mic.</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Changing timescale seems like a lot of work right now. Just keep things simple for now.</Text>
         </Paragraph>
       </ScriptNote>
       <Text>They tell me this is one of the fastest ships in the galaxy and we should expect to arrive within a few mordents.</Text>
@@ -1694,7 +1703,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>He then takes off back towards the large palace in the background.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 3/8" Page="24" Title="">
+      <SceneProperties Length="1 4/8" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALEC-JON"></CharacterArcBeat>
           <CharacterArcBeat Name="POOSUS"></CharacterArcBeat>
@@ -1804,8 +1813,11 @@ SUPER: Year 427 A.V.</Text>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 6]</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Modify: Show the crew being overworked. ]</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5 2/8" Page="25" Title="">
+      <SceneProperties Length="5 1/8" Page="25" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHO"></CharacterArcBeat>
           <CharacterArcBeat Name="ENSIGN"></CharacterArcBeat>
@@ -2157,15 +2169,9 @@ SUPER: Year 427 A.V.</Text>
       <Text>WeeMES</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <ScriptNote Author="" Color="#000000000000" DateModified="20181001T183515" DateTime="20181001T183409" Name="A-Cog" Type="">
+      <ScriptNote Author="" Color="#000000000000" DateModified="20181210T015136" DateTime="20181001T183409" Name="A-Cog" Type="">
         <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Artificial Cognizant?</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Artificial Cogniscience?</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Artificial Cognisants?</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Artificial Cognitives.</Text>
         </Paragraph>
       </ScriptNote>
       <Text>Let me guess, Wilkins is the type who prefers human engagement to A-Cog? He limits reliance on Artificial </Text>
@@ -2224,7 +2230,7 @@ SUPER: Year 427 A.V.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 7]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 5/8" Page="30" Title="">
+      <SceneProperties Length="4 6/8" Page="30" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BLAKE"></CharacterArcBeat>
           <CharacterArcBeat Name="HELLKNIGHT #1"></CharacterArcBeat>
@@ -2598,15 +2604,13 @@ SUPER: Year 427 A.V.</Text>
       <Text>God Helps us.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <ScriptNote Author="" Color="#000000000000" DateModified="20181003T223449" DateTime="20181003T223353" Name="No Follow up on the Nieema situation" Type="">
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Part of me likes the idea of leaving it for chapter 2. But part of me feels like that's the most action packed storyline so I worry it might be too boring. We'll see.</Text>
-        </Paragraph>
-      </ScriptNote>
       <Text>Nieema sloshes through muck and dirt in the wastelands as Hellknights follow close behind her.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 8]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Modify: Condense the next two scenes into one. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="1 4/8" Page="35" Title="">
@@ -3173,7 +3177,13 @@ SUPER: Year 427 A.V.</Text>
       <Text>WeemES (v.O.)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">...we all must know for ourselves the difference between right and wrong in order to exercise that discretion when lives are at stake.</Text>
+      <ScriptNote Author="" Color="#000000000000" DateModified="20181210T020750" DateTime="20181210T020731" Name="Corny Obi-Wan reference." Type="">
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Not sure I want to leave it in.</Text>
+        </Paragraph>
+      </ScriptNote>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">...we</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic"> all must know for ourselves the difference between right and wrong in order to exercise that discretion when lives are at stake.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Suddenly, she stands up and gets dressed.</Text>
@@ -3458,6 +3468,9 @@ SUPER: Year 427 A.V.</Text>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 10]</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Modify: Show the STRANGER (A-Cog) getting accosted by a Human before sneaking past them into the cargo hold. ]</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="1" Page="46" Title="">
         <SceneArcBeats>
@@ -3545,6 +3558,9 @@ SUPER: Year 427 A.V.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text>Ext. Scion gardens - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Modify: Condense the next two scenes into one. ]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Alec-Jon sits in front of the downtown plaza.</Text>
@@ -3650,7 +3666,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>He stays kneeled for a moment, watching the child leave and then shakes his head.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="48" Title="">
+      <SceneProperties Length="2 3/8" Page="49" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALEC-JON"></CharacterArcBeat>
           <CharacterArcBeat Name="WEEMES"></CharacterArcBeat>
@@ -4249,7 +4265,7 @@ SUPER: Year 427 A.V.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[Sequence 12]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 5/8" Page="56" Title="">
+      <SceneProperties Length="2 5/8" Page="57" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="NARTE"></CharacterArcBeat>
           <CharacterArcBeat Name="XARD"></CharacterArcBeat>
@@ -4597,11 +4613,11 @@ SUPER: Year 427 A.V.</Text>
 
   <SpellCheckIgnoreLists>
     <IgnoredRanges>
-      <Range End="35553" Start="35546"/>
-      <Range End="35602" Start="35595"/>
-      <Range End="38665" Start="38656"/>
-      <Range End="48069" Start="48061"/>
-      <Range End="58076" Start="58065"/>
+      <Range End="36049" Start="36042"/>
+      <Range End="36098" Start="36091"/>
+      <Range End="39161" Start="39152"/>
+      <Range End="48729" Start="48721"/>
+      <Range End="58736" Start="58725"/>
     </IgnoredRanges>
     <IgnoredWords/>
   </SpellCheckIgnoreLists>
@@ -4613,7 +4629,7 @@ SUPER: Year 427 A.V.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="59968,59968" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="42838,42838" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -4865,6 +4881,7 @@ SUPER: Year 427 A.V.</Text>
       <Location>SYONIS</Location>
       <Location>FANCY BAR</Location>
       <Location>WASTELANDS</Location>
+      <Location>SCION GARDENS</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -5208,11 +5225,11 @@ SUPER: Year 427 A.V.</Text>
     <Member Actor="Man 1" Character="Hellknight #1"/>
     <Member Actor="Man 1" Character="OnYX\"/>
     <Member Actor="Man 1" Character="MIDSHIPMAN"/>
-    <Member Actor="" Character="Flight attendant"/>
-    <Member Actor="" Character="Tour guide"/>
-    <Member Actor="" Character="Wlikl"/>
-    <Member Actor="" Character="Xard"/>
-    <Member Actor="" Character="NARTE"/>
+    <Member Actor="Man 1" Character="Flight attendant"/>
+    <Member Actor="Man 1" Character="Tour guide"/>
+    <Member Actor="Man 1" Character="Wlikl"/>
+    <Member Actor="Man 1" Character="Xard"/>
+    <Member Actor="Man 1" Character="NARTE"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
