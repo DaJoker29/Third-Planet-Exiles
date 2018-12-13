@@ -405,7 +405,7 @@ SUPER: Year 427 A.V.</Text>
         <SceneArcBeats>
           <CharacterArcBeat Name="ALEC-JON"></CharacterArcBeat>
           <CharacterArcBeat Name="BARLOW"></CharacterArcBeat>
-          <CharacterArcBeat Name="EMPEROR POOSUS"></CharacterArcBeat>
+          <CharacterArcBeat Name="POOSUS"></CharacterArcBeat>
           <CharacterArcBeat Name="WEEMES"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
@@ -415,19 +415,19 @@ SUPER: Year 427 A.V.</Text>
       <Text>SUPER: SYONIS, COMORO, LEONIS II</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The open-air stadium howls with cheers and jeers.</Text>
+      <Text>The stadium howls with cheers and jeers on a warm night.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>ARENA</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>In the center, a sand pit with two gladiators, an Aurem and a Nightling, battling to the death.</Text>
+      <Text>In the center, a sand pit with two gladiators: an Aurem and a Nightling, battling to the death.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Between the pit and the crowd sits the Emperor’s box. Seated inside are the following:</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>EMPEROR POOSUS: Aurem, large even by Aurem standards, wearing ceremonial silver-plated armor and a skull-crown with spikes jutting through the top.</Text>
+      <Text>POOSUS: Aurem, large even by Aurem standards, wearing ceremonial silver-plated armor and a skull-crown with spikes jutting through the top.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>ENYOK BARLOW: Aurem, wearing fine robes with a nervous look on his unmarked face.</Text>
@@ -441,25 +441,25 @@ SUPER: Year 427 A.V.</Text>
       <Text> A-Cog, 30s, clean-shaven and chestnut spiky hair.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Alec-Jon is scanning the fight. His optics zoom in to capture every detail.</Text>
+      <Text>Alec-Jon is viewing the fight through illuminated eyes. His optics zoom in to capture every detail.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The Nightling jabs the Aurem with it’s spear.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Aurem swings a three-headed flail, the Nightling rolls to the side. His leg is nailed, he’s wounded.</Text>
+      <Text>The Aurem swings a three-headed flail, the Nightling rolls to the side. His leg is nailed, wounded.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Alec-Jon excuses himself from the box and heads to the arena concourse, Weemes watching him.</Text>
+      <Text>Alec-Jon excuses himself from the box and heads to the main concourse, Weemes watching.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>MAIN CONCOURSE</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The darkened hall is filled with a few vendors barely tending to their shops focusing instead on the battle.</Text>
+      <Text>The darkened hall is filled with vendors barely tending to their shops focusing instead on the battle.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Weemes finds Alec-Jon sitting on a bench, his hands folding and unfolding an old butterfly knife with superhuman speed.</Text>
+      <Text>Weemes finds Alec-Jon sitting on a bench, folding and unfolding an old butterfly knife with superhuman speed.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Weemes</Text>
@@ -489,14 +489,14 @@ SUPER: Year 427 A.V.</Text>
       <Text>Alec-JON</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Poosus</Text>
-      <Text> is an animal. If he doesn’t get his way tomorrow…</Text>
+      <Text>Poosus is an animal. If he doesn’t get his way tomorrow…</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(gesturing towards the arena)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>what’s to stop him from throwing us in there.</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">what’s</Text>
+      <Text> to stop him from throwing us in there.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Weemes</Text>
@@ -511,7 +511,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>Alec-JON</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I have faith in us. Faith in you to find the best solution. I don’t have faith in some Augeum warlord not to bite the hand that feeds him. It’s what they do.</Text>
+      <Text>I have faith in us. Faith in you. I don’t have faith in some Augeum warlord to not bite the hand that feeds him. It’s what they do.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>WEEMES</Text>
@@ -534,16 +534,16 @@ SUPER: Year 427 A.V.</Text>
           <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Unnecessary.</Text>
         </Paragraph>
       </ScriptNote>
-      <Text>Emperor poosus</Text>
+      <Text>POOSUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Amazing finish. In all of my years…</Text>
+      <Text>Amazing. In all of my years…</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>In the pit, the Aurem has the Nightling pinned underneath it’s gigantic foot, crushing it’s pelvis and thighs. Meanwhile, the Nightling has thrust the spear through the eye-socket of the Aurem. They both seem to wither in place, frozen in time as life fades from them both.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>EmperOR POOSUS (</Text>
+      <Text>POOSUS (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
       <Text>)</Text>
     </Paragraph>
@@ -574,7 +574,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>BarLOW</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>The Collective doesn’t care about some back-world tyrant’s feelings.</Text>
+      <Text>The Collective doesn’t care if we offend some back-world tyrant.</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(leaning in closer)</Text>
@@ -583,10 +583,10 @@ SUPER: Year 427 A.V.</Text>
       <Text>We need that ore.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Emperor Poosus’s eyes turn up as he overhears this.</Text>
+      <Text>Emperor Poosus appears over their shoulders.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>EmpeROR POOSUS</Text>
+      <Text>POOSUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Well, Collectivizer and Coalition-scum, enough games. Tomorrow we meet at the palace, get to business.</Text>
@@ -604,7 +604,7 @@ SUPER: Year 427 A.V.</Text>
       <SceneProperties Length="2" Page="9" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BARLOW"></CharacterArcBeat>
-          <CharacterArcBeat Name="EMPEROR POOSUS"></CharacterArcBeat>
+          <CharacterArcBeat Name="POOSUS"></CharacterArcBeat>
           <CharacterArcBeat Name="WEEMES"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
@@ -635,7 +635,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>I hope you don’t mind if Alec-Jon records this. In old age my memory is spotty and he helps me keep my details straight.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The two Aurem’s nod.</Text>
+      <Text>The two Aurems nod.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>BARLOW</Text>
@@ -650,22 +650,22 @@ SUPER: Year 427 A.V.</Text>
       <Text>Well, let’s start with the basics.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>EmpEROR POOSUS</Text>
+      <Text>POOSUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Endari wish to use us, mine our ore and in return they offer us toys and trinkets.</Text>
+      <Text>Endari wish to use us, mine ore and in return they offer us toys and trinkets.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>BarLOW</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>This is first grade firearms technology. Hardly trinkets.</Text>
+      <Text>Hardly trinkets.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>EmpeROR POOSUS</Text>
+      <Text>POOSUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>We outgun and outnumber the other tribes. They have not contested us for years. The only threat posed to our people is your “Collective” and you’d never give us advantage over yourselves. You need our metal and you offer useless firecrackers in exchange. Hah. If you really want to trade, why not the designs to a battle cruiser.</Text>
+      <Text>We outgun and outnumber all the other tribes. They’ve not contested us for years. The only threat posed to our people is you “Collective” and you never give us advantage. You need our metal and you offer firecrackers in exchange. Hah. If you really want to trade, why not designs to a battle cruiser.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Barlow scoffs.</Text>
@@ -677,10 +677,10 @@ SUPER: Year 427 A.V.</Text>
       <Text>In your dreams. You brutes couldn’t handle technology on that level. You’d blow yourselves up.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>EmPEROR POOSUS</Text>
+      <Text>POOSUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Someone would be blown up, certainly.</Text>
+      <Text>Someone would get blown up, for sure.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>WeeMES</Text>
@@ -692,7 +692,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>BarLOW</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Listen, Weemes. The Collective trusts that you’ll be impartial which is why we accepted his request to have you mediate. But know that the Endari will not have their time wasted or time kindly to threats.</Text>
+      <Text>Listen, Weemes. The Collective trusts that you’ll be impartial which is why we accepted his request to have you mediate. But know that the Endari will not have their time wasted or respond kindly to threats.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>WeeMES</Text>
@@ -701,7 +701,7 @@ SUPER: Year 427 A.V.</Text>
       <Text>Like you said, the Emperor requested that I mediate. To me that shows someone willing to negotiate.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>EmpEROR POOSUS</Text>
+      <Text>POOSUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>But we have other ways to get what we want if need be.</Text>
@@ -715,17 +715,17 @@ SUPER: Year 427 A.V.</Text>
     <Paragraph Type="Dialogue">
       <Text>Ah, I’d like to see that face when it’s staring down an orbital ion strike. Won’t be so pretty then.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
-      <Text>EMPEROR POOSUS</Text>
+    <Paragraph Type="Action">
+      <Text>Poosus jumps on the table.</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(jumping on the table)</Text>
+    <Paragraph Type="Character">
+      <Text>POOSUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>I can make you not pretty now!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Barlow rises and assumes a defensive stance.</Text>
+      <Text>Barlow assumes a defensive stance.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Alec-Jon rushes to Weemes’s side to block him from danger.</Text>
@@ -4640,11 +4640,11 @@ SUPER: Year 427 A.V.</Text>
 
   <SpellCheckIgnoreLists>
     <IgnoredRanges>
-      <Range End="36431" Start="36424"/>
-      <Range End="36480" Start="36473"/>
-      <Range End="39543" Start="39534"/>
-      <Range End="49111" Start="49103"/>
-      <Range End="59118" Start="59107"/>
+      <Range End="36242" Start="36235"/>
+      <Range End="36291" Start="36284"/>
+      <Range End="39354" Start="39345"/>
+      <Range End="48922" Start="48914"/>
+      <Range End="58929" Start="58918"/>
     </IgnoredRanges>
     <IgnoredWords/>
   </SpellCheckIgnoreLists>
@@ -4656,7 +4656,7 @@ SUPER: Year 427 A.V.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="6081,6081" ShowInvisibles="No"/>
+  <TextState Scaling="222" Selection="10756,10756" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -5276,7 +5276,6 @@ SUPER: Year 427 A.V.</Text>
     <Character Color="#FFFFFFFFFFFF" Name="BARLOW" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="BLAKE" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="CHO" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="EMPEROR POOSUS" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="ENSIGN" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="HELLKNIGHT #1" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="MARCUS" Visible="No"/>
@@ -5302,8 +5301,8 @@ SUPER: Year 427 A.V.</Text>
   <ListItems/>
 
   <DisplayBoards>
-    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
     <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
   </DisplayBoards>
 
 </FinalDraft>
